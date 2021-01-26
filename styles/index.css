@@ -7,6 +7,10 @@ body {
     height: 200vh;
 }
 
+.fa-cat {
+    color:rgb(116, 9, 92)
+}
+
 h1 {    
     color: rgb(167, 23, 102);
     font-family: Verdana;
@@ -92,6 +96,14 @@ img {
 
 .baby {
     width: 300px;   
+}
+
+.babyonwool {
+    width: 400px;
+}
+
+.babytongue {
+    width: 600px
 }
 
 .ragdollpic {
